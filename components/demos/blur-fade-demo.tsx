@@ -8,28 +8,28 @@ const works = [
     imageUrl: "/images/watch.mp4",
     isVideo: true, // Add a flag to distinguish videos
     title: "3D Watch Design",
-    link: "/",
+    link: "#",
   },
   {
     background: "bg-gray-200",
     imageUrl: "/images/tomford.mp4",
     isVideo: true, // Default to false for images
     title: "Tomford Ombre Leader",
-    link: "/",
+    link: "#",
   },
   {
     background: "bg-gray-200",
     imageUrl: "/images/classico.webp",
     isVideo: false,
     title: "MatchDay Poster",
-    link: "/",
+    link: "#",
   },
   {
     background: "bg-gray-200",
     imageUrl: "/images/flyer2.webp",
     isVideo: false,
     title: "Event Flyer Design",
-    link: "/",
+    link: "#",
   },
   {
     background: "bg-gray-200",
