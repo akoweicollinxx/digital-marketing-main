@@ -23,25 +23,25 @@ const services = [
     icon: "/images/s_6.png",
     title: "Web Design + Development",
     description:
-      "Take your business to the next level with our web design and development services",
+      "Take your business to the next level with our graphic design, logo design, branding, UI/UX design, responsive design, print design, package design, web development, & e-commerce development services",
   },
   {
     icon: "/images/s_1.png",
     title: "Search Engine Optimization",
     description:
-      "Get your website to the top of search engine results with our SEO services",
+      "Get your website to the top of search engine results with our local SEO, on-page SEO, off-page SEO, technical SEO, keyword research, & link building services",
   },
   {
     icon: "/images/s_5.png",
     title: "Content Creation",
     description:
-      "Boost your brand's online presence with our social media marketing services",
+      "Boost your brand's online presence with our content marketing, blog writing, article writing, copywriting, creative content, content strategy, & content planning services",
   },
   {
     icon: "/images/s_3.png",
     title: "Social Media Marketing",
     description:
-      "Interact with your customers and increase sales with our email marketing services",
+      "Interact with your customers and increase sales with our social media marketing, social media management, social media strategy, social media consulting, social media advertising, and paid social services",
   },
   {
     icon: "/images/s_4.png",
@@ -53,7 +53,7 @@ const services = [
     icon: "/images/s_2.png",
     title: "Pay-Per-Click Advertising",
     description:
-      "Don't waste money on ineffective advertising. Our PPC services help you reach your target audience",
+      "Don't waste money on ineffective advertising. Our pay-per-click advertising, PPC, PPC management, PPC strategy, PPC consulting, PPC campaign setup services will help you reach your target audience",
   },
 ];
 
