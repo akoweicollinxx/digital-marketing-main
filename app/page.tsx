@@ -47,7 +47,7 @@ const services = [
     icon: "/images/s_4.png",
     title: "Email Marketing",
     description:
-      "With our content creation services, we help businesses drive results",
+      "We help businesses drive results with our email marketing, email copywriting, email newsletter design, email marketing strategy, lead nurturing, & drip campaigns services",
   },
   {
     icon: "/images/s_2.png",
