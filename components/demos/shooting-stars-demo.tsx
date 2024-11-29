@@ -14,7 +14,7 @@ const features = [
     icon: "/icons/design.svg",
     title: "Design & Development",
     description:
-      "We design and develop your website with the latest technologies and trends.",
+      "We design, develop & Optimize your website with the latest technologies and trends.",
   },
   {
     icon: "/icons/scalable.svg",
