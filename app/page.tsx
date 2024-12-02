@@ -85,7 +85,7 @@ export default function Home() {
         <div className="absolute right-1/2 translate-x-1/2 transform">
           <div className="hidden md:flex gap-x-10 items-center text-gray-700 font-medium text-lg cursor-pointer">
             <Link href={"/showcase"} className="hover:text-blue-500">
-              Projects
+              Showcase
             </Link>
 
             <ScrollLink
@@ -111,6 +111,7 @@ export default function Home() {
             >
               Guarentees
             </ScrollLink>
+            
           </div>
         </div>
 
@@ -197,7 +198,7 @@ export default function Home() {
         rounded-[6px]
         hover:shadow-[1px_1px_rgba(0,0,0),2px_2px_rgba(0,0,0),3px_3px_rgba(0,0,0),4px_4px_rgba(0,0,0),5px_5px_0px_0px_rgba(0,0,0)] dark:shadow-[1px_1px_rgba(255,255,255),2px_2px_rgba(255,255,255),3px_3px_rgba(255,255,255),4px_4px_rgba(255,255,255),5px_5px_0px_0px_rgba(255,255,255)]"
             >
-              Projects
+              Showcase
             </Link>
           </div>
 
